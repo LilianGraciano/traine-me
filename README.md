@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/LilianGraciano/Moveis-planejados/assets/147550994/a118b686-2737-47a1-9ad3-e2092ca1c04b" />
+<img src="https://github.com/LilianGraciano/Moveis-planejados/assets/147550994/a118b686-2737-47a1-9ad3-e2092ca1c04b"  width="500px"/>
 </div>
 
 
